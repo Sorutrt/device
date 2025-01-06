@@ -5,10 +5,10 @@
 z/	・
 z.	…
 z,	‥
-zh	←
-zj	↓
-zk	↑
-zl	→
+fk	←
+fh	↓
+fy	↑
+fl	→
 z-	〜
 z[	『
 z]	』
