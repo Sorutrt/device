@@ -72,7 +72,7 @@ z	えい
 t	うう
 c	おう
 X	あい
-Z	えい
+Z	z
 T	うう
 C	おう
 D	あん
@@ -139,7 +139,6 @@ bhS	ゔゃん
 bhE	ゔぃん
 bhA	ゔゅん
 bhF	ゔぇん
-
 jd	か
 js	き
 je	く
@@ -197,7 +196,6 @@ jnF	くぉん
 qmd	ヵ
 qme	ㇰ
 qma	ヶ
-
 md	が
 ms	ぎ
 me	ぐ
@@ -252,7 +250,6 @@ mnS	ぐぃん
 mnE	ぐぅん
 mnA	ぐぇん
 mnF	ぐぉん
-
 kd	さ
 ks	し
 ke	す
@@ -291,7 +288,6 @@ khA	しぇん
 khF	しょん
 q,s	ㇱ
 q,e	ㇲ
-
 ,d	ざ
 ,s	じ
 ,e	ず
@@ -328,7 +324,6 @@ q,e	ㇲ
 ,hE	じゅん
 ,hA	じぇん
 ,hF	じょん
-
 knd	すぁ
 kns	すぃ
 kne	すぅ
@@ -401,7 +396,6 @@ k;F	すょん
 ,;E	ずゅん
 ,;A	ずぇん
 ,;F	ずぉん
-
 ld	た
 ls	ち
 le	つ
@@ -440,7 +434,6 @@ lhA	ちぇん
 lhF	ちょん
 q.e	っ
 q.f	ㇳ
-
 .d	だ
 .s	ぢ
 .e	づ
@@ -477,7 +470,6 @@ q.f	ㇳ
 .hE	ぢゅん
 .hA	ぢぇん
 .hF	ぢょん
-
 lkd	つぁ
 lks	つぃ
 lke	つぅ
@@ -568,7 +560,6 @@ lnF	とぉん
 .nE	どぅん
 .nA	どぇん
 .nF	どぉん
-
 id	な
 is	に
 ie	ぬ
@@ -624,7 +615,6 @@ inE	ぬぅん
 inA	ぬぇん
 inF	ぬぉん
 qy	ㇴ
-
 ;d	は
 ;s	ひ
 ;e	ふ
@@ -666,7 +656,6 @@ q/s	ㇶ
 q/e	ㇷ
 q/a	ㇸ
 q/f	ㇹ
-
 /d	ば
 /s	び
 /e	ぶ
@@ -740,7 +729,6 @@ phE	ぴゅん
 phA	ぴぇん
 phF	ぴょん
 qp	ㇷ゚
-
 yd	ふぁ
 ys	ふぃ
 ye	ふぅ
@@ -795,7 +783,6 @@ pnS	ぷぃん
 pnE	ぷぅん
 pnA	ぷぇん
 pnF	ぷぉん
-
 ud	ま
 us	み
 ue	む
@@ -833,7 +820,6 @@ uhE	みゅん
 uhA	みぇん
 uhF	みょん
 qu	ㇺ
-
 hd	や
 hs	いぃ
 he	ゆ
@@ -860,7 +846,6 @@ qif	ょ
 qx	ゃ
 qz	ゅ
 qc	ょ
-
 od	ら
 os	り
 oe	る
@@ -920,7 +905,6 @@ qos	ㇼ
 qoe	ㇽ
 qoa	ㇾ
 qof	ㇿ
-
 nd	わ
 ns	うぃ
 ne	うぅ
@@ -940,9 +924,7 @@ nE	うぅん
 nA	うぇん
 nF	うぉん
 qn	ゎ
-
 r	ん
-
 Y		yh
 U		uh
 I		ih
